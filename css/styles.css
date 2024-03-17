@@ -10979,7 +10979,11 @@ html {
   font-size: 1.25rem;
 }
 .masthead .masthead-avatar {
-  width: 15rem;
+  width: 80rem;
+}
+
+.masthead .masthead-ChatPDF{
+  width: 80rem;
 }
 
 @media (min-width: 992px) {
