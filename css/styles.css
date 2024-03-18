@@ -492,6 +492,14 @@ progress {
   font-weight: 300;
 }
 
+.technical-data-title {
+  font-size: 2rem;
+}
+
+.technical-data-txt {
+  font-size: 1.5rem;
+}
+
 .display-1 {
   font-size: calc(1.625rem + 4.5vw);
   font-weight: 300;
